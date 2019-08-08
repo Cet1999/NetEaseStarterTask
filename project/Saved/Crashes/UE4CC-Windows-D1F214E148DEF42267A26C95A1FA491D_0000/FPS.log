@@ -1,0 +1,958 @@
+﻿Log file open, 07/09/19 14:52:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FPS
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.264318
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: E:/epic/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.09-06.52.00:562][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.09-06.52.00:562][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.09-06.52.00:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Engine.ini]
+[2019.07.09-06.52.00:562][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.09-06.52.00:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Engine.ini]
+[2019.07.09-06.52.00:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Engine.ini]
+[2019.07.09-06.52.00:562][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.09-06.52.00:562][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.09-06.52.00:562][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.09-06.52.00:562][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.09-06.52.00:562][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.09-06.52.00:562][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.09-06.52.00:562][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.09-06.52.00:562][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.09-06.52.00:562][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.09-06.52.00:562][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Engine.ini]
+[2019.07.09-06.52.00:563][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.09-06.52.00:563][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Engine.ini]
+[2019.07.09-06.52.00:563][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Engine.ini]
+[2019.07.09-06.52.00:570][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Scalability.ini]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Scalability.ini]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Scalability.ini]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Scalability.ini]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.09-06.52.00:570][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Scalability.ini]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Scalability.ini]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Scalability.ini]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.09-06.52.00:571][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.09-06.52.00:571][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.09-06.52.00:571][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.09-06.52.00:583][  0]LogHAL: Display: Platform has ~ 16 GB [17066397696 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.07.09-06.52.00:583][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.09-06.52.00:583][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Scalability.ini]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Scalability.ini]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Scalability.ini]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Scalability.ini]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.07.09-06.52.00:583][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Scalability.ini]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Scalability.ini]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Scalability.ini]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.07.09-06.52.00:584][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/game/FPS/NetEaseStarterTask/project/Saved/Config/Windows/Engine.ini]
+[2019.07.09-06.52.00:585][  0]LogInit: Computer: HIH-D-20757
+[2019.07.09-06.52.00:585][  0]LogInit: User: zhuangjingyu
+[2019.07.09-06.52.00:585][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.07.09-06.52.00:585][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.07.09-06.52.00:585][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.07.09-06.52.00:585][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.09-06.52.00:585][  0]LogMemory: Process Physical Memory: 97.96 MB used, 97.96 MB peak
+[2019.07.09-06.52.00:585][  0]LogMemory: Process Virtual Memory: 93.13 MB used, 93.13 MB peak
+[2019.07.09-06.52.00:585][  0]LogMemory: Physical Memory: 7286.22 MB used,  8989.56 MB free, 16275.79 MB total
+[2019.07.09-06.52.00:585][  0]LogMemory: Virtual Memory: 4660.50 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.07.09-06.52.00:610][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.07.09-06.52.00:610][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.07.09-06.52.00:748][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.09-06.52.00:776][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.09-06.52.00:776][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.09-06.52.00:990][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.09-06.52.00:990][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.09-06.52.01:045][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.07.09-06.52.01:045][  0]LogD3D11RHI:       6052/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.07.09-06.52.01:626][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.07.09-06.52.01:626][  0]LogD3D11RHI:       128/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.07.09-06.52.01:628][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.09-06.52.01:628][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.09-06.52.01:630][  0]LogD3D11RHI:    3. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.09-06.52.01:630][  0]LogD3D11RHI:       0/0/8137 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.09-06.52.01:630][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.09-06.52.01:637][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.09-06.52.01:637][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.09-06.52.01:637][  0]LogWindows: EnumDisplayDevices:
+[2019.07.09-06.52.01:637][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.07.09-06.52.01:638][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.07.09-06.52.01:638][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.07.09-06.52.01:638][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.07.09-06.52.01:638][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.07.09-06.52.01:639][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.07.09-06.52.01:639][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.07.09-06.52.01:639][  0]LogWindows:    7. 'Lebo Virtual USB Monitor' (P:0 D:0)
+[2019.07.09-06.52.01:639][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.07.09-06.52.01:639][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.07.09-06.52.01:639][  0]LogD3D11RHI:   Driver Version: 419.17 (internal:25.21.14.1917, unified:419.17)
+[2019.07.09-06.52.01:639][  0]LogD3D11RHI:      Driver Date: 2-20-2019
+[2019.07.09-06.52.01:639][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.07.09-06.52.01:675][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.09-06.52.01:677][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.09-06.52.01:677][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.09-06.52.01:677][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.09-06.52.01:686][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.07.09-06.52.02:073][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.07.09-06.52.02:085][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.07.09-06.52.02:095][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.07.09-06.52.02:107][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.07.09-06.52.02:118][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.07.09-06.52.02:129][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.09-06.52.02:141][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.09-06.52.02:152][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.09-06.52.02:158][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.07.09-06.52.02:227][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.07.09-06.52.02:229][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.07.09-06.52.02:280][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.07.09-06.52.02:280][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.07.09-06.52.02:307][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.07.09-06.52.02:307][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.07.09-06.52.02:318][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.07.09-06.52.02:328][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.07.09-06.52.02:338][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.07.09-06.52.02:349][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.07.09-06.52.02:387][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.07.09-06.52.02:387][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.07.09-06.52.02:387][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.09-06.52.02:395][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.09-06.52.02:436][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../../game/FPS/NetEaseStarterTask/project/Intermediate/Shaders/WorkingDirectory/3080/).
+[2019.07.09-06.52.02:436][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/zhuangjingyu/AppData/Local/Temp/UnrealShaderWorkingDir/C52ED116443E0B47DFBBAE8C0F659FEF/'.
+[2019.07.09-06.52.02:438][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.09-06.52.02:438][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.09-06.52.02:438][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.09-06.52.02:925][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.09-06.52.02:966][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/zhuangjingyu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.09-06.52.02:966][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/zhuangjingyu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.09-06.52.02:967][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../game/FPS/NetEaseStarterTask/project/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.09-06.52.02:967][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.09-06.52.02:967][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../game/FPS/NetEaseStarterTask/project/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.09-06.52.02:967][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.09-06.52.02:978][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.09-06.52.02:978][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.09-06.52.02:978][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.09-06.52.02:990][  0]LogDerivedDataCache: Using Local data cache path C:/Users/zhuangjingyu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.09-06.52.02:990][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.09-06.52.02:990][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.09-06.52.03:016][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.09-06.52.03:017][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.09-06.52.03:018][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.09-06.52.03:108][  0]LogAssetRegistry: FAssetRegistry took 0.0313 seconds to start up
+[2019.07.09-06.52.03:383][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.09-06.52.03:496][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.09-06.52.03:496][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.09-06.52.03:496][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.09-06.52.03:496][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.09-06.52.03:496][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.09-06.52.03:507][  0]LogNetVersion: FPS 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1373740947)
+[2019.07.09-06.52.03:895][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.047299 seconds
+[2019.07.09-06.52.03:901][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.07.09-06.52.03:901][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.07.09-06.52.03:901][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.09-06.52.04:763][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.09-06.52.04:776][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.09-06.52.04:892][  0]SourceControl: Source control is disabled
+[2019.07.09-06.52.04:892][  0]SourceControl: Source control is disabled
+[2019.07.09-06.52.04:893][  0]SourceControl: Source control is disabled
+[2019.07.09-06.52.04:894][  0]SourceControl: Source control is disabled
+[2019.07.09-06.52.04:970][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.09-06.52.05:042][  0]LogOcInput: OculusInput pre-init called
+[2019.07.09-06.52.05:799][  0]LogEngine: Initializing Engine...
+[2019.07.09-06.52.05:800][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.09-06.52.05:801][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.07.09-06.52.05:979][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.09-06.52.05:989][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.09-06.52.06:050][  0]LogInit: XAudio2 using '扬声器/听筒 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.09-06.52.06:480][  0]LogInit: FAudioDevice initialized.
+[2019.07.09-06.52.06:480][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.09-06.52.06:521][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/zhuangjingyu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.09-06.52.06:526][  0]LogInit: Texture streaming: Enabled
+[2019.07.09-06.52.06:543][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.09-06.52.06:559][  0]LogInit: Transaction tracking system initialized
+[2019.07.09-06.52.06:580][  0]BlueprintLog: New page: Editor Load
+[2019.07.09-06.52.06:662][  0]LocalizationService: Localization service is disabled
+[2019.07.09-06.52.07:286][  0]LogFileCache: Scanning file cache for directory 'E:/game/FPS/NetEaseStarterTask/project/Content/' took 0.01s
+[2019.07.09-06.52.07:286][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.09-06.52.07:286][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.09-06.52.07:442][  0]SourceControl: Source control is disabled
+[2019.07.09-06.52.07:442][  0]Cmd: MAP LOAD FILE="../../../../../game/FPS/NetEaseStarterTask/project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.09-06.52.07:442][  0]LightingResults: New page: Lighting Build
+[2019.07.09-06.52.07:444][  0]MapCheck: New page: Map Check
+[2019.07.09-06.52.07:444][  0]LightingResults: New page: Lighting Build
+[2019.07.09-06.52.07:468][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.07.09-06.52.07:751][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.07.09-06.52.07:759][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.09-06.52.07:782][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.07.09-06.52.07:783][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.09-06.52.07:783][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.073ms to complete.
+[2019.07.09-06.52.07:783][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.341
+[2019.07.09-06.52.07:867][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-06.52.07:873][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-06.52.07:880][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-06.52.07:886][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-06.52.07:891][  0]LogCollectionManager: Loaded 0 collections in 0.001696 seconds
+[2019.07.09-06.52.07:929][  0]LogFileCache: Scanning file cache for directory 'E:/game/FPS/NetEaseStarterTask/project/Saved/Collections/' took 0.01s
+[2019.07.09-06.52.07:929][  0]LogFileCache: Scanning file cache for directory 'E:/game/FPS/NetEaseStarterTask/project/Content/Developers/zhuangjingyu/Collections/' took 0.01s
+[2019.07.09-06.52.07:929][  0]LogFileCache: Scanning file cache for directory 'E:/game/FPS/NetEaseStarterTask/project/Content/Collections/' took 0.01s
+[2019.07.09-06.52.07:929][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.07.09-06.52.07:936][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2732 classes and 659 folders.
+[2019.07.09-06.52.07:942][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.07.09-06.52.07:944][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:944][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:945][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:945][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:946][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:946][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:947][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:947][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:950][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:950][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:953][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:954][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:954][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:956][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:956][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.09-06.52.07:984][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.07.09-06.52.08:041][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.07.09-06.52.08:095][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.09-06.52.08:097][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.09-06.52.08:099][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.09-06.52.08:143][  0]LogRenderer: Reallocating scene render targets to support 1480x544 Format 9 NumSamples 1 (Frame:1).
+[2019.07.09-06.52.08:282][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.07.09-06.52.08:282][  0]LogLoad: (Engine Initialization) Total time: 9.22 seconds
+[2019.07.09-06.52.08:282][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.09-06.52.08:314][  0]LogAssetRegistry: Asset discovery search completed in 5.2284 seconds
+[2019.07.09-06.52.08:317][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.07.09-06.52.08:317][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2019.07.09-06.52.08:323][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.07.09-06.52.08:355][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.09-06.52.09:636][  4]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.09-06.52.25:095][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-06.52.25:295][351]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.09-06.52.25:304][351]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-06.52.25:304][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.09-06.52.25:304][351]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 9, 2019, 10:52:25 PM)
+[2019.07.09-06.52.25:316][351]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.07.09-06.52.25:328][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011962s)
+[2019.07.09-06.52.25:329][351]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.07.09-06.52.25:329][351]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2019.07.09-06.52.25:329][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012761s)
+[2019.07.09-06.52.25:351][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.07.09-06.52.25:356][351]LogInit: XAudio2 using '扬声器/听筒 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.09-06.52.25:378][351]LogInit: FAudioDevice initialized.
+[2019.07.09-06.52.25:422][351]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.09-06.52.25:425][351]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.07.09-14.52.25
+[2019.07.09-06.52.25:425][351]LogWorld: Bringing up level for play took: 0.001433
+[2019.07.09-06.52.25:440][351]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.07.09-06.52.25:443][351]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.302
+[2019.07.09-06.52.25:443][351]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-06.53.43:884][504]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-06.53.43:885][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-06.53.43:920][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.09-06.53.43:921][504]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-06.53.43:962][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-06.53.43:965][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.07.09-06.53.43:985][505]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.07.09-06.53.44:645][583]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.07.09-06.53.44:672][583]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.09-06.54.00:094][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-06.54.00:169][573]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.09-06.54.00:177][573]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-06.54.00:178][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.09-06.54.00:178][573]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 9, 2019, 10:54:00 PM)
+[2019.07.09-06.54.00:178][573]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.07.09-06.54.00:188][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009645s)
+[2019.07.09-06.54.00:188][573]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.07.09-06.54.00:189][573]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2019.07.09-06.54.00:189][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010731s)
+[2019.07.09-06.54.00:211][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.07.09-06.54.00:215][573]LogInit: XAudio2 using '扬声器/听筒 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.09-06.54.00:238][573]LogInit: FAudioDevice initialized.
+[2019.07.09-06.54.00:267][573]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.09-06.54.00:269][573]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.07.09-14.54.00
+[2019.07.09-06.54.00:269][573]LogWorld: Bringing up level for play took: 0.001318
+[2019.07.09-06.54.00:282][573]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.536
+[2019.07.09-06.54.00:282][573]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-06.54.05:053][140]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	bp_fire_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.bp_fire
+	Function /Game/BP/bp_fire.bp_fire_C:ExecuteUbergraph_bp_fire:002A
+[2019.07.09-06.54.05:053][140]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  bp_fire Function:  Execute Ubergraph Bp Fire Graph:  EventGraph Node:  Take Damage 5%
+[2019.07.09-07.10.14:168][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.10.14:169][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-07.10.14:200][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.09-07.10.14:200][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.10.14:224][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-07.10.14:227][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.07.09-07.10.14:233][670]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.09-07.10.14:292][672]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.07.09-07.10.28:788][410]LogSlate: Window 'Message Log' being destroyed
+[2019.07.09-07.10.28:791][410]LogSlate: Window 'Message Log' being destroyed
+[2019.07.09-07.10.33:937][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-07.10.34:027][764]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.09-07.10.34:035][764]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.10.34:035][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.09-07.10.34:036][764]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 9, 2019, 11:10:34 PM)
+[2019.07.09-07.10.34:036][764]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.07.09-07.10.34:046][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009813s)
+[2019.07.09-07.10.34:046][764]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.07.09-07.10.34:046][764]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2019.07.09-07.10.34:047][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010744s)
+[2019.07.09-07.10.34:069][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.07.09-07.10.34:073][764]LogInit: XAudio2 using '扬声器/听筒 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.09-07.10.34:095][764]LogInit: FAudioDevice initialized.
+[2019.07.09-07.10.34:122][764]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.09-07.10.34:124][764]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.07.09-15.10.34
+[2019.07.09-07.10.34:124][764]LogWorld: Bringing up level for play took: 0.001461
+[2019.07.09-07.10.34:137][764]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.381
+[2019.07.09-07.10.34:137][764]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.11.01:591][ 55]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.11.01:591][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-07.11.01:625][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.09-07.11.01:625][ 55]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.11.01:649][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-07.11.01:652][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.07.09-07.11.01:695][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.07.09-07.11.02:976][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-07.11.03:153][230]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.07.09-07.11.03:345][230]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.07.09-07.11.04:001][230]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.09-07.11.04:137][231]LogSlate: Took 0.001729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.07.09-07.11.04:140][231]LogSlate: Took 0.000489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.09-07.11.16:482][635]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Character/animbp_swat.animbp_swat
+[2019.07.09-07.11.16:625][635]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2019.07.09-07.11.16:625][635]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.07.09-07.11.17:139][635]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.09-07.11.17:143][635]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2019.07.09-07.11.17:143][635]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.07.09-07.11.17:434][635]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.09-07.11.18:163][635]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.07.09-07.11.21:067][966]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Character/animbs_swat_crouch.animbs_swat_crouch
+[2019.07.09-07.11.21:105][966]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2019.07.09-07.11.21:114][966]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.09-07.11.21:138][966]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.09-07.11.21:668][966]LogRenderer: Reallocating scene render targets to support 1480x548 Format 9 NumSamples 1 (Frame:1).
+[2019.07.09-07.11.21:668][966]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.07.09-07.11.51:445][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/animbs_swat_crouch" FILE="../../../../../game/FPS/NetEaseStarterTask/project/Content/Character/animbs_swat_crouch.uasset" SILENT=true
+[2019.07.09-07.11.51:460][355]LogSavePackage: Moving '../../../../../game/FPS/NetEaseStarterTask/project/Saved/animbs_swat_crouch30F08FD64B87A586D64F4A993DF33887.tmp' to '../../../../../game/FPS/NetEaseStarterTask/project/Content/Character/animbs_swat_crouch.uasset'
+[2019.07.09-07.11.52:090][411]LogSlate: Window 'animbs_swat_crouch' being destroyed
+[2019.07.09-07.11.52:094][411]LogSlate: Window 'animbs_swat_crouch' being destroyed
+[2019.07.09-07.11.53:523][565]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.09-07.11.53:531][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.11.53:531][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.09-07.11.53:531][565]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 9, 2019, 11:11:53 PM)
+[2019.07.09-07.11.53:531][565]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.07.09-07.11.53:543][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011435s)
+[2019.07.09-07.11.53:544][565]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.07.09-07.11.53:544][565]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2019.07.09-07.11.53:544][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012479s)
+[2019.07.09-07.11.53:638][565]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2019.07.09-07.11.53:643][565]LogInit: XAudio2 using '扬声器/听筒 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.09-07.11.53:666][565]LogInit: FAudioDevice initialized.
+[2019.07.09-07.11.53:673][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-07.11.53:705][565]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.09-07.11.53:707][565]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.07.09-15.11.53
+[2019.07.09-07.11.53:707][565]LogWorld: Bringing up level for play took: 0.001278
+[2019.07.09-07.11.53:721][565]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.035
+[2019.07.09-07.11.53:722][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.12.00:065][277]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.12.00:065][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-07.12.00:074][277]LogSlate: Window 'FPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.09-07.12.00:116][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.09-07.12.00:117][277]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.12.00:162][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.07.09-07.12.00:174][278]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.07.09-07.12.02:437][518]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Character/animbs_swat_walk.animbs_swat_walk
+[2019.07.09-07.12.02:442][518]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.09-07.12.02:466][518]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.09-07.12.02:729][518]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.07.09-07.12.12:618][436]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2019.07.09-07.12.14:668][648]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.07.09-07.12.25:019][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/animbs_swat_crouch" FILE="../../../../../game/FPS/NetEaseStarterTask/project/Content/Character/animbs_swat_crouch.uasset" SILENT=true
+[2019.07.09-07.12.25:032][608]LogSavePackage: Moving '../../../../../game/FPS/NetEaseStarterTask/project/Saved/animbs_swat_crouch5B67B59B483FD9B589857BB4A7BB83B6.tmp' to '../../../../../game/FPS/NetEaseStarterTask/project/Content/Character/animbs_swat_crouch.uasset'
+[2019.07.09-07.12.26:649][748]LogSlate: Window 'animbs_swat_crouch' being destroyed
+[2019.07.09-07.12.26:654][748]LogSlate: Window 'animbs_swat_crouch' being destroyed
+[2019.07.09-07.12.50:060][209]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.09-07.12.50:069][209]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.12.50:069][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.09-07.12.50:069][209]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 9, 2019, 11:12:50 PM)
+[2019.07.09-07.12.50:069][209]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.07.09-07.12.50:079][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010273s)
+[2019.07.09-07.12.50:080][209]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.07.09-07.12.50:080][209]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2019.07.09-07.12.50:080][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011309s)
+[2019.07.09-07.12.50:136][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.07.09-07.12.50:140][209]LogInit: XAudio2 using '扬声器/听筒 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.09-07.12.50:164][209]LogInit: FAudioDevice initialized.
+[2019.07.09-07.12.50:195][209]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.09-07.12.50:201][209]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.07.09-15.12.50
+[2019.07.09-07.12.50:202][209]LogWorld: Bringing up level for play took: 0.003875
+[2019.07.09-07.12.50:216][209]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.458
+[2019.07.09-07.12.50:216][209]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.13.08:555][401]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.13.08:556][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-07.13.08:589][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.09-07.13.08:590][401]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.13.08:626][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-07.13.08:629][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.07.09-07.13.08:672][403]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.07.09-07.13.15:588][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-07.13.17:664][472]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Character/animbs_swat_crouch.animbs_swat_crouch
+[2019.07.09-07.13.17:671][472]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.09-07.13.17:692][472]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.09-07.13.17:930][472]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.07.09-07.13.26:888][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-07.13.26:976][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/animbs_swat_crouch" FILE="../../../../../game/FPS/NetEaseStarterTask/project/Content/Character/animbs_swat_crouch.uasset" SILENT=true
+[2019.07.09-07.13.26:989][162]LogSavePackage: Moving '../../../../../game/FPS/NetEaseStarterTask/project/Saved/animbs_swat_crouch25AEEDEA458016C038CEE9B44A5F19F2.tmp' to '../../../../../game/FPS/NetEaseStarterTask/project/Content/Character/animbs_swat_crouch.uasset'
+[2019.07.09-07.13.27:959][247]LogSlate: Window 'animbs_swat_crouch' being destroyed
+[2019.07.09-07.13.27:964][247]LogSlate: Window 'animbs_swat_crouch' being destroyed
+[2019.07.09-07.13.29:306][389]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.09-07.13.29:315][389]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.13.29:315][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.09-07.13.29:315][389]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 9, 2019, 11:13:29 PM)
+[2019.07.09-07.13.29:316][389]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.07.09-07.13.29:324][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009043s)
+[2019.07.09-07.13.29:324][389]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.07.09-07.13.29:324][389]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2019.07.09-07.13.29:325][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009918s)
+[2019.07.09-07.13.29:370][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.07.09-07.13.29:373][389]LogInit: XAudio2 using '扬声器/听筒 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.09-07.13.29:398][389]LogInit: FAudioDevice initialized.
+[2019.07.09-07.13.29:403][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-07.13.29:434][389]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.09-07.13.29:436][389]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.07.09-15.13.29
+[2019.07.09-07.13.29:436][389]LogWorld: Bringing up level for play took: 0.001449
+[2019.07.09-07.13.29:451][389]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.307
+[2019.07.09-07.13.29:451][389]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.13.47:135][397]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.13.47:136][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-07.13.47:145][397]LogSlate: Window 'FPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.09-07.13.47:184][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.09-07.13.47:184][397]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.13.47:227][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.07.09-07.13.47:238][398]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.07.09-07.13.52:505][850]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Character/animbs_swat_walk.animbs_swat_walk
+[2019.07.09-07.13.52:511][850]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.09-07.13.52:537][850]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.09-07.13.52:784][850]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.07.09-07.14.01:859][700]LogSlate: Window 'animbs_swat_walk' being destroyed
+[2019.07.09-07.14.01:863][700]LogSlate: Window 'animbs_swat_walk' being destroyed
+[2019.07.09-07.14.06:262][189]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/Character/animbs_swat_walk.animbs_swat_walk
+[2019.07.09-07.14.06:267][189]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.09-07.14.06:287][189]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.07.09-07.14.06:536][189]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.07.09-07.14.53:674][885]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.09-07.14.53:704][885]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2019.07.09-07.14.54:731][964]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.09-07.14.54:731][964]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.09-07.15.26:034][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/animbs_swat_crouch" FILE="../../../../../game/FPS/NetEaseStarterTask/project/Content/Character/animbs_swat_crouch.uasset" SILENT=true
+[2019.07.09-07.15.26:048][872]LogSavePackage: Moving '../../../../../game/FPS/NetEaseStarterTask/project/Saved/animbs_swat_crouchB09D356B4BEB231DAAB8F6B744D7DF18.tmp' to '../../../../../game/FPS/NetEaseStarterTask/project/Content/Character/animbs_swat_crouch.uasset'
+[2019.07.09-07.15.26:482][910]LogSlate: Window 'animbs_swat_crouch' being destroyed
+[2019.07.09-07.15.26:487][910]LogSlate: Window 'animbs_swat_crouch' being destroyed
+[2019.07.09-07.15.27:749][ 45]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.09-07.15.27:757][ 45]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.15.27:757][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.09-07.15.27:758][ 45]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 9, 2019, 11:15:27 PM)
+[2019.07.09-07.15.27:758][ 45]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.07.09-07.15.27:768][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010027s)
+[2019.07.09-07.15.27:768][ 45]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.07.09-07.15.27:769][ 45]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2019.07.09-07.15.27:769][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010932s)
+[2019.07.09-07.15.27:812][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.07.09-07.15.27:816][ 45]LogInit: XAudio2 using '扬声器/听筒 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.09-07.15.27:839][ 45]LogInit: FAudioDevice initialized.
+[2019.07.09-07.15.27:846][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-07.15.27:876][ 45]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.09-07.15.27:878][ 45]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.07.09-15.15.27
+[2019.07.09-07.15.27:879][ 45]LogWorld: Bringing up level for play took: 0.001715
+[2019.07.09-07.15.27:894][ 45]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.136
+[2019.07.09-07.15.27:894][ 45]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.16.06:632][472]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.16.06:633][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-07.16.06:641][472]LogSlate: Window 'FPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.09-07.16.06:685][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.09-07.16.06:685][472]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.16.06:726][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.07.09-07.16.06:736][473]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.07.09-07.18.23:422][ 40]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.09-07.18.23:425][ 40]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2019.07.09-07.18.29:466][614]LogRenderer: Reallocating scene render targets to support 1480x708 Format 9 NumSamples 1 (Frame:1).
+[2019.07.09-07.18.36:407][417]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.09-07.18.36:407][417]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.09-07.21.30:726][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.07.09-07.21.30:897][596]LogSavePackage: Moving '../../../../../game/FPS/NetEaseStarterTask/project/Saved/ThirdPersonExampleMap_Auto11AD4A2774F49568DA1C185A07AB8A725.tmp' to '../../../../../game/FPS/NetEaseStarterTask/project/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.07.09-07.21.30:900][596]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.211
+[2019.07.09-07.21.30:900][596]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.211
+[2019.07.09-07.21.30:902][596]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.07.09-07.21.30:915][596]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.07.09-07.21.30:915][596]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.07.09-07.21.30:986][596]LogSavePackage: Moving '../../../../../game/FPS/NetEaseStarterTask/project/Saved/ThirdPersonCharacter_Auto1BAF40E7B4EF77D990FDC0585733B70E7.tmp' to '../../../../../game/FPS/NetEaseStarterTask/project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2019.07.09-07.21.30:987][596]LogFileHelpers: Auto-saving content packages took 0.085
+[2019.07.09-07.25.28:819][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-07.25.28:919][480]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.09-07.25.28:927][480]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.25.28:928][480]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.09-07.25.28:937][480]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.07.09-07.25.29:146][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.07.09-07.25.29:146][480]LogPlayLevel: PlayLevel: Blueprint regeneration took 217 ms (1 blueprints)
+[2019.07.09-07.25.29:146][480]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 9, 2019, 11:25:29 PM)
+[2019.07.09-07.25.29:146][480]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.07.09-07.25.29:158][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011256s)
+[2019.07.09-07.25.29:158][480]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.07.09-07.25.29:159][480]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2019.07.09-07.25.29:159][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012606s)
+[2019.07.09-07.25.29:192][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.07.09-07.25.29:196][480]LogInit: XAudio2 using '扬声器/听筒 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.09-07.25.29:220][480]LogInit: FAudioDevice initialized.
+[2019.07.09-07.25.29:227][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-07.25.29:261][480]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.09-07.25.29:263][480]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.07.09-15.25.29
+[2019.07.09-07.25.29:264][480]LogWorld: Bringing up level for play took: 0.001802
+[2019.07.09-07.25.29:278][480]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.482
+[2019.07.09-07.25.29:279][480]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.25.36:274][293]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.25.36:274][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-07.25.36:283][293]LogSlate: Window 'FPS Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.09-07.25.36:316][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.09-07.25.36:316][293]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.25.36:358][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.07.09-07.25.36:374][294]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.07.09-07.25.46:124][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-07.25.54:549][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-07.31.38:164][582]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.09-07.31.38:219][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.07.09-07.31.38:391][582]LogSavePackage: Moving '../../../../../game/FPS/NetEaseStarterTask/project/Saved/ThirdPersonExampleMap_Auto26D066C1142BDCF584A0B3EB6F56768ED.tmp' to '../../../../../game/FPS/NetEaseStarterTask/project/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.07.09-07.31.38:393][582]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.219
+[2019.07.09-07.31.38:393][582]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.219
+[2019.07.09-07.31.38:394][582]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.07.09-07.31.38:408][582]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.07.09-07.31.38:408][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.07.09-07.31.38:508][582]LogSavePackage: Moving '../../../../../game/FPS/NetEaseStarterTask/project/Saved/ThirdPersonCharacter_Auto228DC0F974A3198B3447EEFAE2A542134.tmp' to '../../../../../game/FPS/NetEaseStarterTask/project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2019.07.09-07.31.38:555][582]LogFileHelpers: Auto-saving content packages took 0.162
+[2019.07.09-07.34.14:985][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-07.34.15:059][346]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.07.09-07.34.15:260][346]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.07.09-07.34.16:872][523]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.09-07.34.16:884][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.34.16:884][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.09-07.34.16:884][523]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 9, 2019, 11:34:16 PM)
+[2019.07.09-07.34.16:884][523]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.07.09-07.34.16:894][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009952s)
+[2019.07.09-07.34.16:895][523]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.07.09-07.34.16:895][523]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2019.07.09-07.34.16:895][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010966s)
+[2019.07.09-07.34.16:932][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.07.09-07.34.16:936][523]LogInit: XAudio2 using '扬声器/听筒 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.09-07.34.16:961][523]LogInit: FAudioDevice initialized.
+[2019.07.09-07.34.16:990][523]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.09-07.34.16:992][523]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.07.09-15.34.16
+[2019.07.09-07.34.16:992][523]LogWorld: Bringing up level for play took: 0.001540
+[2019.07.09-07.34.17:006][523]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.755
+[2019.07.09-07.34.17:006][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.34.45:808][971]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.34.45:808][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-07.34.45:838][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.09-07.34.45:838][971]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.07.09-07.34.45:874][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.09-07.34.45:879][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.07.09-07.34.45:921][973]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.07.09-07.36.37:379][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-07.36.48:322][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-07.36.58:464][733]LogEditorTransaction: Undo Modify Component(s)
+[2019.07.09-07.36.58:544][733]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.07.09-07.37.25:301][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-07.37.48:179][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-07.38.47:053][363]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.09-07.38.52:929][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.09-07.41.31:142][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-07.41.45:333][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-07.41.45:441][829]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.07.09-07.41.45:807][829]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.07.09-07.42.10:952][997]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.07.09-07.42.11:152][997]LogSavePackage: Moving '../../../../../game/FPS/NetEaseStarterTask/project/Saved/ThirdPersonExampleMap_Auto3F886E0804BDFD2DC46898E817E7D9596.tmp' to '../../../../../game/FPS/NetEaseStarterTask/project/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2019.07.09-07.42.11:155][997]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.236
+[2019.07.09-07.42.11:155][997]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.236
+[2019.07.09-07.42.11:156][997]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.07.09-07.42.11:166][997]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.07.09-07.42.11:166][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.07.09-07.42.11:266][997]LogSavePackage: Moving '../../../../../game/FPS/NetEaseStarterTask/project/Saved/ThirdPersonCharacter_Auto34CF27DB44AD38399521AFE9433C9D778.tmp' to '../../../../../game/FPS/NetEaseStarterTask/project/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2019.07.09-07.42.11:280][997]LogFileHelpers: Auto-saving content packages took 0.125
+[2019.07.09-07.47.43:790][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-07.47.45:425][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.07.09-07.47.45:610][648]LogSavePackage: Moving '../../../../../game/FPS/NetEaseStarterTask/project/Saved/ThirdPersonExampleMap57037D52491C58C53DFF178C6EA29345.tmp' to '../../../../../game/FPS/NetEaseStarterTask/project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.07.09-07.47.45:778][648]LogSavePackage: Moving '../../../../../game/FPS/NetEaseStarterTask/project/Saved/ThirdPersonExampleMap_BuiltData8A8D845848FB1D0A3E10599E39F52216.tmp' to '../../../../../game/FPS/NetEaseStarterTask/project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.07.09-07.47.55:031][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.09-07.48.37:384][779]LogUObjectArray: Warning: Other object in slot
+[2019.07.09-07.48.37:384][779]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.07.09-07.48.37:892][779]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.507 s
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: === Handled ensure: ===
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: 
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: Stack: 
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: [Callstack] 0x00007ff8fdc6b0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: [Callstack] 0x00007ff8fd4e6f7e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: [Callstack] 0x00007ff8fd4f4d90 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: [Callstack] 0x00007ff8fbf537f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: [Callstack] 0x00007ff8fb0b5cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: [Callstack] 0x00007ff8fb071e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: [Callstack] 0x00007ff904155984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: [Callstack] 0x00007ff9043415e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: [Callstack] 0x00007ff90419d70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: [Callstack] 0x00007ff90417af5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: [Callstack] 0x00007ff904170287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: [Callstack] 0x00007ff938a4b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: [Callstack] 0x00007ff938a3ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: [Callstack] 0x00007ff938a4d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.09-07.48.37:892][779]LogOutputDevice: Error: [Callstack] 0x00007ff938a3c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.09-07.48.37:893][779]LogOutputDevice: Error: [Callstack] 0x00007ff9527fca66 USER32.dll!UnknownFunction []
+[2019.07.09-07.48.37:893][779]LogOutputDevice: Error: [Callstack] 0x00007ff9527fc582 USER32.dll!UnknownFunction []
+[2019.07.09-07.48.37:893][779]LogOutputDevice: Error: [Callstack] 0x00007ff938a4e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.09-07.48.37:893][779]LogOutputDevice: Error: [Callstack] 0x00007ff6c5ed5d3e UE4Editor.exe!UnknownFunction []
+[2019.07.09-07.48.37:893][779]LogOutputDevice: Error: [Callstack] 0x00007ff6c5ee554c UE4Editor.exe!UnknownFunction []
+[2019.07.09-07.48.37:893][779]LogOutputDevice: Error: [Callstack] 0x00007ff6c5ee55ca UE4Editor.exe!UnknownFunction []
+[2019.07.09-07.48.37:893][779]LogOutputDevice: Error: [Callstack] 0x00007ff6c5ef316c UE4Editor.exe!UnknownFunction []
+[2019.07.09-07.48.37:893][779]LogOutputDevice: Error: [Callstack] 0x00007ff6c5ef5b8e UE4Editor.exe!UnknownFunction []
+[2019.07.09-07.48.37:893][779]LogOutputDevice: Error: [Callstack] 0x00007ff952ae7974 KERNEL32.DLL!UnknownFunction []
+[2019.07.09-07.48.37:893][779]LogOutputDevice: Error: [Callstack] 0x00007ff952d9a271 ntdll.dll!UnknownFunction []
+[2019.07.09-07.48.37:893][779]LogOutputDevice: Error: 
+[2019.07.09-07.48.37:909][779]LogStats:                SubmitErrorReport -  0.000 s
